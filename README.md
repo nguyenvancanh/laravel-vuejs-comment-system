@@ -548,5 +548,5 @@ Cần để ý răng, có một thuộc tính được định nghĩa cuối cù
         }
 ```
 
-Với việc định nghĩa này, giúp cho hệ thống của bạn load tất cả comment hiển thị ra cho người dùng ngay khi ng
+Với việc định nghĩa này, giúp cho hệ thống của bạn load tất cả comment hiển thị ra cho người dùng ngay khi người dùng truy cập vào hệ thống.
 
